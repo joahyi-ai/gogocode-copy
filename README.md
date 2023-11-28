@@ -6,7 +6,7 @@
 
 ## What is GoGoCode?
 
-全网最简单易上手的 AST 处理工具!
+全网最简单易上手的 AST 处理工具!!
 
 [中文 README](README-cn.md)
 
