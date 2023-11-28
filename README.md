@@ -8,6 +8,8 @@
 
 全网最简单易上手的 AST 处理工具!!
 
+next2
+
 [中文 README](README-cn.md)
 
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
