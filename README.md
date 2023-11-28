@@ -6,12 +6,12 @@
 
 ## What is GoGoCode?
 
-全网最简单易上手的 AST 处理工具!!
+全网最简单易上手的 AST 处理工具!! 代码转换从未从此简单!
 
 next2
 
 [中文 README](README-cn.md)
-
+next A
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
 
 -   A jQuery-like API to select and transform AST.
