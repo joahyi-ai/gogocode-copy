@@ -8,7 +8,7 @@
 
 全网最简单易上手的 AST 处理工具!! 代码转换从未从此简单!
 
-next2
+next2 123
 
 [中文 README](README-cn.md)
 next A
