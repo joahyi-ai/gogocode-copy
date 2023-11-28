@@ -1,11 +1,12 @@
 [![Code transform has never been easier: GoGoCode](https://img.alicdn.com/imgextra/i1/O1CN01KMiK8i1uEL75yOSuc_!!6000000006005-2-tps-1949-552.png)](https://gogocode.io)
 
-[![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
+[![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)
 
 [>>>>>>>>>>>>>>>>>>>阿里妈妈前端招聘啦~ ](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=1019223&track_id=SSP1691116011187KXRTJqqMmf1253)
 
 ## What is GoGoCode?
-second commit
+
+全网最简单易上手的 AST 处理工具!
 
 [中文 README](README-cn.md)
 
